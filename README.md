@@ -74,6 +74,8 @@ streamlit run app.py
 ```
 
 **4. Formato del archivo Excel**
+> 📥 **[Descargar archivo de ejemplo](ventas_ejemplo_demo.xlsx)** 
+> para probar el dashboard sin necesidad de tus propios datos.
 
 El archivo debe contener una hoja llamada
 `HOJA PARA TABLA DINÁMICA` con estas columnas:
@@ -86,6 +88,7 @@ El archivo debe contener una hoja llamada
 | `VENTA UNIDADES` | Unidades vendidas |
 | `VENTA $` | Ingreso en pesos |
 | `UTILIDAD $` | Utilidad generada |
+
 
 ---
 
